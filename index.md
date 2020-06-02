@@ -35,3 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Welcome to the study-note wiki!
+
+# Survival Analysis
+* [Survival Analysis Basics](http://www.sthda.com/english/wiki/survival-analysis-basics)
+*  [Cox Proportional-Hazards Model](http://www.sthda.com/english/wiki/cox-proportional-hazards-model)
+*  [Cox Model Assumptions](http://www.sthda.com/english/wiki/cox-model-assumptions)
+* [Determine optimal cutpoints for numerical variables in survival plots](http://r-addict.com/2016/11/21/Optimal-Cutpoint-maxstat.html)
+* [Survival plots have never been so informative](http://r-addict.com/2016/05/23/Informative-Survival-Plots.html)
+* [Survival Analysis with R (has TCGA example)](https://bioconnector.github.io/workshops/r-survival.html)
+* [curated list of the best relevant R survival analysis packages and functions](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)
