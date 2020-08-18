@@ -47,5 +47,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * [Survival Analysis with R (has TCGA example)](https://bioconnector.github.io/workshops/r-survival.html)
 * [curated list of the best relevant R survival analysis packages and functions](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)
 
+# TCGA data exploration 
+* [Overview and Few Ways of Downloading TCGA Data](http://r-addict.com/2016/07/22/BioC2016-RTCGA.html)
+
+* [find synthetical drug-r package? need to check, comment from R addit blog for survival?](https://github.com/chapmandu2/CollateralVulnerability2016)
+
 # Statistics
-* power and sample size
+[power and sample size](http://www.3rs-reduction.co.uk/html/6__power_and_sample_size.html)
