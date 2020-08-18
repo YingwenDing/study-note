@@ -46,3 +46,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * [Survival plots have never been so informative](http://r-addict.com/2016/05/23/Informative-Survival-Plots.html)
 * [Survival Analysis with R (has TCGA example)](https://bioconnector.github.io/workshops/r-survival.html)
 * [curated list of the best relevant R survival analysis packages and functions](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)
+
+# Statistics
+* power and sample size
