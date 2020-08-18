@@ -53,4 +53,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 * [find synthetical drug-r package? need to check, comment from R addit blog for survival?](https://github.com/chapmandu2/CollateralVulnerability2016)
 
 # Statistics
-[power and sample size](http://www.3rs-reduction.co.uk/html/6__power_and_sample_size.html)
+* [power and sample size](http://www.3rs-reduction.co.uk/html/6__power_and_sample_size.html)
